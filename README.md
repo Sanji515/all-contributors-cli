@@ -46,7 +46,7 @@
 [![Code Coverage](https://img.shields.io/codecov/c/github/all-contributors/all-contributors-cli.svg)](https://codecov.io/github/all-contributors/all-contributors-cli)
 [![Version](https://img.shields.io/npm/v/all-contributors-cli.svg)](https://www.npmjs.com/package/all-contributors-cli)
 [![Downloads](https://img.shields.io/npm/dm/all-contributors-cli.svg)](http://www.npmtrends.com/all-contributors-cli)
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors)
 [![Star on Github](https://img.shields.io/github/stars/all-contributors/all-contributors-cli.svg?style=social)](https://github.com/all-contributors/all-contributors-cli/stargazers)
 
 ## The problem
@@ -117,6 +117,7 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://cezaraugusto.net/"><img src="https://avatars0.githubusercontent.com/u/4672033?v=4" width="100px;" alt="Cezar Augusto"/><br /><sub><b>Cezar Augusto</b></sub></a><br /><a href="https://github.com/Sanji515/all-contributors-cli/commits?author=cezaraugusto" title="Documentation">📖</a></td>
     <td align="center"><a href="https://reinhold.is"><img src="https://avatars1.githubusercontent.com/u/5678122?v=4" width="100px;" alt="Jeppe Reinhold"/><br /><sub><b>Jeppe Reinhold</b></sub></a><br /><a href="https://github.com/Sanji515/all-contributors-cli/commits?author=JReinhold" title="Code">💻</a></td>
     <td align="center"><a href="https://sanji515.github.io/"><img src="https://avatars1.githubusercontent.com/u/32524438?v=4" width="100px;" alt="Sanjeev Singh"/><br /><sub><b>Sanjeev Singh</b></sub></a><br /><a href="#maintenance-Sanji515" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://rishabhjain2018.github.io/"><img src="https://avatars2.githubusercontent.com/u/12206047?v=4" width="100px;" alt="Rishabh Jain"/><br /><sub><b>Rishabh Jain</b></sub></a><br /><a href="#infra-RishabhJain2018" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Sanji515/all-contributors-cli/commits?author=RishabhJain2018" title="Tests">⚠️</a> <a href="https://github.com/Sanji515/all-contributors-cli/commits?author=RishabhJain2018" title="Code">💻</a></td>
   </tr>
 </table>
 

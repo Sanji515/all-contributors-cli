@@ -334,6 +334,17 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "RishabhJain2018",
+      "name": "Rishabh Jain",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12206047?v=4",
+      "profile": "https://rishabhjain2018.github.io/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ]
 }
