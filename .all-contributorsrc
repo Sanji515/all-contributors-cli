@@ -1,5 +1,5 @@
 {
-  "projectOwner": "all-contributors",
+  "projectOwner": "Sanji515",
   "projectName": "all-contributors-cli",
   "imageSize": 100,
   "repoType": "github",
@@ -324,6 +324,15 @@
       "profile": "https://reinhold.is",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "Sanji515",
+      "name": "Sanjeev Singh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32524438?v=4",
+      "profile": "https://sanji515.github.io/",
+      "contributions": [
+        "maintenance"
       ]
     }
   ]
