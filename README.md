@@ -64,20 +64,6 @@ specification for your GitHub or GitLab repository.
 
 If you're looking to use the cli, head over to [the cli docs on allcontributors.org](https://allcontributors.org/docs/en/cli/overview). The all-contributors website contains all the information required to install, configure and use the all-contributors-cli.
 
-## Contributors
-
-Thanks goes to these wonderful people
-([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://sanji515.github.io/"><img src="https://avatars1.githubusercontent.com/u/32524438?v=4" width="100px;" alt="Sanjeev Singh"/><br /><sub><b>Sanjeev Singh</b></sub></a><br /><a href="#maintenance-Sanji515" title="Maintenance">🚧</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the
 [all-contributors](https://github.com/all-contributors/all-contributors)
